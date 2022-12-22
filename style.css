@@ -3,6 +3,7 @@
 * {
   user-select: none;
 }
+
 body {
   display: flex;
   justify-content: center;
